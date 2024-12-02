@@ -1,0 +1,16 @@
+{
+  "name": "projeto_langchain_js_2",
+  "version": "1.0.0",
+  "description": "exemplo de nodejs com openai",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabrizio Farias",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/openai": "^0.3.11",
+    "dotenv": "^16.4.5"
+  }
+}
